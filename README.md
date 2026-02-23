@@ -1,6 +1,6 @@
 # Java Buzz Coffee Shop Website
 
-University Project
+DSL Task Project
 
 **Live Demo:**  
 https://github.com/shahmeer-sk23/java-buzz-coffee-shop.git
