@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/shahmeer-sk23/java-buzz-coffee-shop.git.xml
